@@ -2792,6 +2792,23 @@
     (pin "6" (uuid 31c7747c-9fe8-4b05-bcf5-d46c4f23ec3b))
   )
 
+  (symbol (lib_id "et-ruler-symbols:Ruler") (at 101.6 24.13 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid d7392e8b-0e06-4696-9748-0d7496a3b699)
+    (property "Reference" "G2" (id 0) (at 110.49 22.8599 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Ruler" (id 1) (at 110.49 25.3999 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "et-ruler-footprints:Metric_Ruler_160mm_top" (id 2) (at 101.6 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 100.33 24.13 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "Device:LED") (at 208.28 134.62 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dd9f2188-a80c-4bf4-b35f-814d5d6eb35a)
@@ -2920,6 +2937,9 @@
     )
     (path "/03caa3c2-54d3-40f1-9cb3-d9aa289ce51b"
       (reference "G1") (unit 1) (value "Ruler") (footprint "et-ruler-footprints:Metric_Ruler_160mm_top")
+    )
+    (path "/d7392e8b-0e06-4696-9748-0d7496a3b699"
+      (reference "G2") (unit 1) (value "Ruler") (footprint "et-ruler-footprints:Metric_Ruler_160mm_top")
     )
     (path "/c9b5473e-e25b-42a4-b7d9-5abb0ac41e91"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
