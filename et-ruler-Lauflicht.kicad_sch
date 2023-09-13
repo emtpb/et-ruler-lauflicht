@@ -2566,7 +2566,7 @@
     (property "Value" "Battery_Cell" (id 1) (at 39.37 50.8 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "et-ruler-footprints:BatteryHolder_Keystone_1060_1x2032_adhesive" (id 2) (at 24.13 50.546 90)
+    (property "Footprint" "et-ruler-footprints:BatteryHolder_Keystone_1060_1x2032_adhesive_Hybrid" (id 2) (at 24.13 50.546 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 24.13 50.546 90)
@@ -2902,7 +2902,7 @@
       (reference "#PWR013") (unit 1) (value "GND") (footprint "")
     )
     (path "/a04e3677-fe39-4b95-a487-52fb76ac6218"
-      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "et-ruler-footprints:BatteryHolder_Keystone_1060_1x2032_adhesive")
+      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "et-ruler-footprints:BatteryHolder_Keystone_1060_1x2032_adhesive_Hybrid")
     )
     (path "/7ce99f9d-f83f-4e90-be5c-05aec8e31bb7"
       (reference "C1") (unit 1) (value "optional") (footprint "et-ruler-footprints:R_0805_THT_5.08mm_Hybrid")

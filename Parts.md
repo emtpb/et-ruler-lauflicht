@@ -22,7 +22,7 @@
 |LED rot|[Reichelt](https://www.reichelt.de/led-5-mm-bedrahtet-rot-100-mcd-30--kbt-l-7113lsurdk-p345234.html?&trstct=pol_1&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Vishay-Semiconductors/VLDS1235G?qs=8%2FCviTG%2FVKSLHaGFY2znbQ%3D%3D)|
 |LED grün|[Reichelt](https://www.reichelt.de/led-3-mm-bedrahtet-gruen-60-mcd-34--kbt-l-7104sgc-p230840.html?&trstct=pol_0&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Vishay-Semiconductors/VLDTG1232G-08?qs=vLWxofP3U2zDV0hybC0Sqg%3D%3D)|
 SPDT Schalter|[Reichelt](https://www.reichelt.de/schiebeschalter-gerade-rm2-54-1x-ein-ein-ss-25136-nh-p105709.html?&trstct=pol_13&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/CK/JS102011SCQN?qs=aIxPIZZxLh%2FC%2Fw7UJtfwsg%3D%3D)||
-|Batteriehalter|[Reichelt](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-smd-kzh-20smd-2-p74686.html?&trstct=pol_2&nbc=1)|[Reichelt](https://www.reichelt.de/knopfzellenhalter-fuer-1-20-mm-halter-mpd2-p213336.html?&trstct=pol_1&nbc=1)|
+|Batteriehalter|[Reichelt](https://www.reichelt.de/knopfzellenhalter-fuer-1-20-mm-halter-mpd2-p213336.html?&trstct=pol_1&nbc=1)|[Reichelt](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-smd-kzh-20smd-2-p74686.html?&trstct=pol_2&nbc=1)|
 |Pmod Leiste|-|-|optional|
 |Pmod Buchse|-|-|optional|
 |Widerstände|| 0805 ||
