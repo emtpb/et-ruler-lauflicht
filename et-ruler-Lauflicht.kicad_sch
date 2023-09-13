@@ -2672,7 +2672,7 @@
     (property "Value" "QR ETrules" (id 1) (at 101.0158 49.276 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "et-ruler-footprints:QR-Code_20x20" (id 2) (at 97.79 48.895 0)
+    (property "Footprint" "et-ruler-footprints:QR-Code_15x15" (id 2) (at 97.79 48.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.95 50.8 0)
@@ -2980,7 +2980,7 @@
       (reference "J5") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/b666831c-ca4f-4a71-9971-07858609a79d"
-      (reference "QR1") (unit 1) (value "QR ETrules") (footprint "et-ruler-footprints:QR-Code_20x20")
+      (reference "QR1") (unit 1) (value "QR ETrules") (footprint "et-ruler-footprints:QR-Code_15x15")
     )
     (path "/92843e9c-4e2c-4a71-afaf-0ef9f1242e0e"
       (reference "R1") (unit 1) (value "10k") (footprint "et-ruler-footprints:R_0805_THT_10.16mm_Hybrid")
