@@ -1,29 +1,23 @@
 # Lauflicht Bestückung
 
-## DIP/THT
-
- - [2,2uF Elko](https://www.reichelt.de/elko-radial-2-2-f-50-v-105-c-low-esr-5-x-11-mm-rm-2-5-fc-a-2-2u-50-p228386.html?&trstct=pos_0&nbc=1)
-
-
-
-## SMD
-
- - [8-poliger IC Sockel](https://www.mouser.de/ProductDetail/Preci-dip/110-87-308-41-105161?qs=FtMuP6KVi2SCSBBfwBrhEw%3D%3D)
- - [16-poliger IC Sockel](https://www.mouser.de/ProductDetail/Preci-dip/110-87-316-41-105161?qs=FtMuP6KVi2QHQp3JIt8WoQ%3D%3D)
   
-|Bauteil|THT Bestückung|SMD Bestückung| Beide |
-|-------|--------------|--------------|-------|
-| 2,2 uF Elko|[Reichelt](https://www.reichelt.de/elko-radial-2-2-f-50-v-105-c-low-esr-5-x-11-mm-rm-2-5-fc-a-2-2u-50-p228386.html?&trstct=pos_0&nbc=1) |[Reichelt](https://www.reichelt.de/smd-elko-2-2-f-50v-105-c-2000h-20--hb-v-2-2u-50-p228556.html?&trstct=pol_0&nbc=1)
-| IC-Sockel 8-pol. |[Reichelt](https://www.reichelt.de/ic-sockel-8-polig-superflach-gedreht-vergold--gs-8p-p8231.html?&trstct=pos_1&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Preci-dip/110-87-316-41-105161?qs=FtMuP6KVi2QHQp3JIt8WoQ%3D%3D)|
-| NE555 |-|-| [Reichelt](https://www.reichelt.de/lincmos-timer-typ-555-pdip-8-tlc-555-cp-p189124.html?&trstct=pos_2&nbc=1) |
-| IC-Sockel 16-pol. |[Reichelt](https://www.reichelt.de/ic-sockel-16-polig-superflach-gedreht-vergold--gs-16p-p8209.html?&trstct=pos_2&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Preci-dip/110-87-308-41-105161?qs=FtMuP6KVi2SCSBBfwBrhEw%3D%3D)|
- |74HC 4017|-|-|[Reichelt](https://www.reichelt.de/dezimalzaehler-cmos-2--6-v-dil-16-74hc-4017-p3220.html?&trstct=pos_2&nbc=1)|
-|200k Poti|[Reichelt](https://www.reichelt.de/praezisionspotentiometer-25-gaenge-stehend-200-kohm-64y-200k-p2721.html?&trstct=pol_2&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Bourns/3269W-1-204GLF?qs=n6HadrAYs3GTzOzY3AmZmw%3D%3D)||
-|LED rot|[Reichelt](https://www.reichelt.de/led-5-mm-bedrahtet-rot-100-mcd-30--kbt-l-7113lsurdk-p345234.html?&trstct=pol_1&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Vishay-Semiconductors/VLDS1235G?qs=8%2FCviTG%2FVKSLHaGFY2znbQ%3D%3D)|
-|LED grün|[Reichelt](https://www.reichelt.de/led-3-mm-bedrahtet-gruen-60-mcd-34--kbt-l-7104sgc-p230840.html?&trstct=pol_0&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Vishay-Semiconductors/VLDTG1232G-08?qs=vLWxofP3U2zDV0hybC0Sqg%3D%3D)|
-SPDT Schalter|[Reichelt](https://www.reichelt.de/schiebeschalter-gerade-rm2-54-1x-ein-ein-ss-25136-nh-p105709.html?&trstct=pol_13&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/CK/JS102011SCQN?qs=aIxPIZZxLh%2FC%2Fw7UJtfwsg%3D%3D)||
-|Batteriehalter|[Reichelt](https://www.reichelt.de/knopfzellenhalter-fuer-1-20-mm-halter-mpd2-p213336.html?&trstct=pol_1&nbc=1) oder [Reichelt](https://www.reichelt.de/knopfzellenhalter-fuer-20-mm-kzh-20-1-p44621.html?search=KZH+20-1)|[Reichelt](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-smd-kzh-20smd-2-p74686.html?&trstct=pol_2&nbc=1)|
-|Pmod Leiste|-|-|optional|
-|Pmod Buchse|-|-|optional|
-|Widerstände|| 0805 ||
-|Kondensatoren||0805||
+|Bauteil|THT Bestückung|SMD Bestückung| Beide | Anzahl |
+|-------|--------------|--------------|-------|--------|
+| IC-Sockel 8-pol. |[Reichelt](https://www.reichelt.de/ic-sockel-8-polig-superflach-gedreht-vergold--gs-8p-p8231.html?&trstct=pos_1&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Preci-dip/110-87-316-41-105161?qs=FtMuP6KVi2QHQp3JIt8WoQ%3D%3D)||1|
+| NE555 |-|-| [Reichelt](https://www.reichelt.de/lincmos-timer-typ-555-pdip-8-tlc-555-cp-p189124.html?&trstct=pos_2&nbc=1) |1|
+| IC-Sockel 16-pol. |[Reichelt](https://www.reichelt.de/ic-sockel-16-polig-superflach-gedreht-vergold--gs-16p-p8209.html?&trstct=pos_2&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Preci-dip/110-87-308-41-105161?qs=FtMuP6KVi2SCSBBfwBrhEw%3D%3D)||1|
+ |74HC 4017|-|-|[Reichelt](https://www.reichelt.de/dezimalzaehler-cmos-2--6-v-dil-16-74hc-4017-p3220.html?&trstct=pos_2&nbc=1)|1|
+|200k Poti|[Reichelt](https://www.reichelt.de/praezisionspotentiometer-25-gaenge-stehend-200-kohm-64y-200k-p2721.html?&trstct=pol_2&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Bourns/3269W-1-204GLF?qs=n6HadrAYs3GTzOzY3AmZmw%3D%3D)||1|
+|LED rot|[Reichelt](https://www.reichelt.de/led-5-mm-bedrahtet-rot-100-mcd-30--kbt-l-7113lsurdk-p345234.html?&trstct=pol_1&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Vishay-Semiconductors/VLDS1235G?qs=8%2FCviTG%2FVKSLHaGFY2znbQ%3D%3D)||10|
+|LED grün|[Reichelt](https://www.reichelt.de/led-3-mm-bedrahtet-gruen-60-mcd-34--kbt-l-7104sgc-p230840.html?&trstct=pol_0&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/Vishay-Semiconductors/VLDTG1232G-08?qs=vLWxofP3U2zDV0hybC0Sqg%3D%3D)||1|
+SPDT Schalter|[Reichelt](https://www.reichelt.de/schiebeschalter-gerade-rm2-54-1x-ein-ein-ss-25136-nh-p105709.html?&trstct=pol_13&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/CK/JS102011SCQN?qs=aIxPIZZxLh%2FC%2Fw7UJtfwsg%3D%3D)||2|
+|Batteriehalter|[Reichelt](https://www.reichelt.de/knopfzellenhalter-fuer-1-20-mm-halter-mpd2-p213336.html?&trstct=pol_1&nbc=1) oder [Reichelt](https://www.reichelt.de/knopfzellenhalter-fuer-20-mm-kzh-20-1-p44621.html?search=KZH+20-1)|[Reichelt](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-smd-kzh-20smd-2-p74686.html?&trstct=pol_2&nbc=1)||1|
+|Sicherung|[Reichelt](https://www.reichelt.de/rueckstellende-sicherungen-400-ma-litt-rxef020-p242419.html?&trstct=pol_3&nbc=1)|[Reichelt 6V](https://www.reichelt.de/ptc-sicherung-smd-0805-6v-350ma-rueckstellend-ptc-fsmd0350805-p279337.html?&trstct=pol_0&nbc=1) oder [Mouser](https://www.mouser.de/ProductDetail/Littelfuse/RF5051-000?qs=DPoM0jnrROXxcTdRBV4RLg%3D%3D)||1|
+|Pmod Leiste|-|-|[Reichelt](https://www.reichelt.de/40pol-stiftleiste-gewinkelt-rm-2-54-sl-1x40w-2-54-p19507.html?&trstct=vrt_pdn&nbc=1)|1|
+|Pmod Buchse|-|-|[Reichelt](https://www.reichelt.de/20pol-buchsenl-gewinkelt-rm-2-54-h-8-5mm-bl-1x20w8-2-54-p51847.html?search=bl+1x20)|1|
+|Stiftleiste 1x6 gerade|-|-|[Reichelt](https://www.reichelt.de/40pol-stiftleiste-gerade-rm-2-54-sl-1x40g-2-54-p19506.html?search=SL+1X40G+2%2C54)|1|
+|Widerstand 10k|[Reichelt](https://www.reichelt.de/widerstand-metallschicht-10-0-kohm-0207-0-6-w-1--metall-10-0k-p11449.html?&trstct=pol_0&nbc=1)| [Reichelt](https://www.reichelt.de/smd-widerstand-0805-10-kohm-125-mw-1--smd-0805-10-0k-p32898.html?&trstct=pol_1&nbc=1) oder [Reichelt](https://www.reichelt.de/smd-widerstand-0805-10-kohm-125-mw-1--wal-wr08x1002ftl-p346579.html?&trstct=pol_2&nbc=1) ||2|
+|Widerstand 100|[Reichelt](https://www.reichelt.de/widerstand-metallschicht-100-ohm-0207-0-6-w-1--metall-100-p11457.html?&trstct=pol_1&nbc=1)| [Reichelt](https://www.reichelt.de/smd-widerstand-0805-100-ohm-125-mw-1--smd-0805-100-p32874.html?&trstct=pol_1&nbc=1) oder [Reichelt](https://www.reichelt.de/smd-widerstand-0805-100-ohm-125-mw-1--wal-wr08x1000ftl-p346578.html?&trstct=pol_2&nbc=1) ||1|
+|Widerstand 56|[Reichelt](https://www.reichelt.de/widerstand-metallschicht-56-0-ohm-0207-0-6-w-1--metall-56-0-p11878.html?&trstct=pol_0&nbc=1)| [Reichelt](https://www.reichelt.de/smd-widerstand-0805-56-ohm-125-mw-1--wal-wr08x56r0ftl-p346626.html?&trstct=pol_0&nbc=1) oder [Reichelt](https://www.reichelt.de/smd-widerstand-0805-56-ohm-125-mw-1--smd-0805-56-0-p32871.html?&trstct=pol_1&nbc=1) ||1|
+|Kondensatoren 100nF|[Reichelt](https://www.reichelt.de/vielschicht-kerko-100-nf-50-100-v-z5u-20-rm-5-0-z5u-5-100n-p22986.html?&trstct=pos_0&nbc=1)|[Reichelt](https://www.reichelt.de/smd-vielschicht-keramikkondensator-100n-10--x7r-g0805-100n-p31879.html?&trstct=pol_0&nbc=1) oder [Reichelt](https://www.reichelt.de/smd-kerko-0805-100-nf-50v-10-x7r-mlcc-wal-0805b104k500-p346808.html?&trstct=pol_2&nbc=1)||2-3|
+| Elek. Kondensator 2,2uF|[Reichelt](https://www.reichelt.de/elko-radial-2-2-f-50-v-105-c-low-esr-5-x-11-mm-rm-2-5-fc-a-2-2u-50-p228386.html?&trstct=pos_0&nbc=1) |[Reichelt](https://www.reichelt.de/smd-elko-2-2-f-50v-105-c-2000h-20--hb-v-2-2u-50-p228556.html?&trstct=pol_0&nbc=1)||1|
