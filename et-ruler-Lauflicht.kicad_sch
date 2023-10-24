@@ -1093,7 +1093,6 @@
     (uuid ee37a65c-332a-40ae-88cb-825b94943da3)
   )
 
-  (no_connect (at 30.48 34.29) (uuid 2b8caba0-ba5a-42e0-b9da-abaaaf91aa45))
   (no_connect (at 167.64 36.83) (uuid 37d0869f-d335-4a9e-a4c0-ad0edcabec3e))
   (no_connect (at 162.56 52.07) (uuid 680ed0be-783e-4214-9432-273e101fbffe))
   (no_connect (at 162.56 57.15) (uuid 690b3852-0da8-4589-bbc7-6b29d72df3a0))
