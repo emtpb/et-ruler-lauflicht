@@ -6730,7 +6730,7 @@
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp d1bba860-386f-4354-bfd1-d932b1915baa))
   (gr_arc locked (start 101.5 128) (mid 100.43934 127.56066) (end 100 126.5)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp f3a2fe57-7abd-4f5d-bfaa-ca4679c05cb1))
-  (gr_text "2.2" (at 265.25 126.5) (layer "F.Cu") (tstamp 03f1c684-6cd8-4e22-beb9-b66c08f36b31)
+  (gr_text "2.3" (at 265.25 126.5) (layer "F.Cu") (tstamp 03f1c684-6cd8-4e22-beb9-b66c08f36b31)
     (effects (font (size 1.2 1.2) (thickness 0.25)) (justify right))
   )
   (gr_text "Name" (at 263 123.75) (layer "B.SilkS") (tstamp 0bd8fea4-9e17-4d29-9e96-bb4842d6a01f)
