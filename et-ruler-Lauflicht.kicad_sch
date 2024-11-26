@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "810e500b-9764-4fdd-b63e-d69a5b1999ca")
 	(paper "A4")
+	(title_block
+		(title "Lauflicht")
+		(date "2024-11-26")
+		(rev "2.3")
+		(company "Universität Paderborn, Institut für Elektrotechnik und Informationstechnik, EMT")
+	)
 	(lib_symbols
 		(symbol "4xxx:4017"
 			(pin_names
