@@ -1,3 +1,5 @@
 # et-ruler-lauflicht
 
-![Lauflicht](et-ruler-Lauflicht.png)
+![Rendering of the PCB](et-ruler-Lauflicht.png)
+
+![Schematic](et-ruler-Lauflicht-schematic.png)
