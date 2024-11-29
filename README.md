@@ -9,6 +9,8 @@ Your plain, boring count-to-ten "Lauflicht" just became the count-to-100 "Laufli
 
 ![Rendering of the PCB](et-ruler-Lauflicht.png)
 
+An interactive html BOM file with pcb layout and material placement can be found [here](bom/ibom.html).
+
 # Schematic
 
 ![Schematic](et-ruler-Lauflicht-schematic.png)
