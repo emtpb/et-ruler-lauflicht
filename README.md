@@ -16,4 +16,4 @@ An interactive html BOM file with pcb layout and material placement can be found
 ![Schematic](et-ruler-Lauflicht-schematic.png)
 
 # Interactive BOM
-An interactive html BOM page with pcb layout and material placement can be found [here](emtpb.github.io/et-ruler-lauflicht/bom/ibom.html).
+An interactive html BOM page with pcb layout and material placement can be found [here](https://emtpb.github.io/et-ruler-lauflicht/bom/ibom.html).
